@@ -1,0 +1,8 @@
+.DS_Store
+logs/
+db-data/
+mariadb_data/
+wordpress_bitnami/
+.idea
+wordpress/wp-config.php
+wordpress/wp-content/uploads/
